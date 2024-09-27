@@ -34,6 +34,7 @@ Clone the repository:
 bash
 Copy code
 git clone https://github.com/Pavankumar280/News
+
 Navigate to the project directory:
 
 bash
@@ -61,5 +62,3 @@ bash
 Copy code
 git push origin feature/YourFeatureName
 Submit a pull request detailing your changes.
-License
-QuickPulse is licensed under the MIT License. For details, please refer to the LICENSE file.
