@@ -1,4 +1,6 @@
 News Web - QuickPulse
+
+
 Abstract
 QuickPulse is a web application designed to aggregate and display news articles from various sources. The primary goal is to provide users with a seamless and efficient way to access the latest headlines and search for specific topics of interest. The application is built using fundamental web technologies including HTML, CSS, and JavaScript, ensuring wide compatibility and ease of use.
 
@@ -31,7 +33,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/quickpulse.git](https://github.com/Pavankumar280/News
+git clone https://github.com/Pavankumar280/News
 Navigate to the project directory:
 
 bash
